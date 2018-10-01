@@ -18,3 +18,8 @@ you can get clone_link in Clone or Download.
 		git status 
 		git add . 
 		git commit -m "commit_message"
+
+4. Run below steps to sync your branch with the master branch
+
+		git fetch upstream
+		git merge upstream/master
