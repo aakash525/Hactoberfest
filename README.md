@@ -32,6 +32,6 @@ you can get clone_link in Clone or Download.
 
 		git stash
 
-Note: Step 4 is not required if you are sure that the last pull request is yours.
+Note: Step 4 is not required if you are sure of the fact that the last pull request is yours.
 
 Thank You.
