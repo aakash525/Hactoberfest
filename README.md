@@ -11,7 +11,7 @@ Steps:
 
 		git remote add upstream <clone_link>
 
-you can get clone_link in Clone or Download.
+you can get clone_link in **Clone or Download**.
 
 3. Open the terminal (ctrl + alt + t) and run below commands, 
 
