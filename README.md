@@ -11,6 +11,10 @@ Steps:
 
 		git remote add upstream <clone_link>
 
+   For checking streams
+	
+		git remote -v
+
 you can get clone_link in **Clone or Download**.
 
 3. Open the terminal (ctrl + alt + t) and run below commands, 
