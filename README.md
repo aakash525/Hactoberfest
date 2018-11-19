@@ -38,6 +38,14 @@ you can get clone_link in **Clone or Download**.
 
 Note : Step 4 is not required if you are sure of the fact that the last pull request is yours.
 
-Thank You.
+==============================
+
+If someone shared a repo with you and you have that folder in your local system and want to link that directory with github repo,
+
+		git remote add <repo_link>
+		
+If you have a directory in your local system and an empty repo on github and want to link both,
+
+		git remote add -u <repo_link>
 
 Enjoy
